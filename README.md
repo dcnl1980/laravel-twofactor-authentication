@@ -28,7 +28,7 @@ This plugins allows you to enable two-factor authentication in your Laravel appl
 * Use following command to install:
 
 ```bash
-composer require srmklive/authy
+composer require dcnl1980/authy
 ```
 
 * Add the service provider to your $providers array in config/app.php file like: 
