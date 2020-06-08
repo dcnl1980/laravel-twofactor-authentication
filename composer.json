@@ -12,16 +12,16 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Dcnl1980\\Authy\\Providers\\AuthyServiceProvider"
+        "Srmklive\\Authy\\Providers\\AuthyServiceProvider"
       ],
       "aliases": {
-        "Authy": "Dcnl1980\\Authy\\Facades\\Authy"
+        "Authy": "Srmklive\\Authy\\Facades\\Authy"
       }
     }
   },
   "autoload":{
     "psr-4": {
-      "Dcnl1980\\Authy\\": "src/"
+      "Srmklive\\Authy\\": "src/"
     }
   },
   "authors": [
